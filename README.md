@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
-<h3 align="center">Full Stack Developer | Game Developer | AI Researcher | Tutor</h3>
+<h3 align="center">Full Stack Developer | Game Developer | NLP Researcher | Tutor</h3>
 <h4 align='center'>Driven 6th-semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhak-20&label=Profile%20views&color=0e75b6&style=flat" alt="talhak-20" /> </p>
