@@ -61,10 +61,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> &nbsp;
   </a>
   
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> &nbsp;
-  </a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> &nbsp;
   </a>
@@ -130,8 +126,7 @@
 
 
 <br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhak-20&langs_count=10&show_icons=true&locale=en&layout=compact" alt="talhak-20" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=talhak-20&show_icons=true&locale=en" alt="talhak-20" /> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhak-20&" alt="talhak-20" /> </p>
