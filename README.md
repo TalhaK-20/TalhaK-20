@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Developer | ML & NLP Engineer | Researcher | Tutor</h3>
 
-<h4 align="center">Driven 6th semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
+<h4 align="center">Driven 7th semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhak-20&label=Profile%20views&color=0e75b6&style=flat" alt="talhak-20" /> </p>
@@ -126,7 +126,8 @@
 
 
 <br>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=talhak-20&langs_count=10&show_icons=true&locale=en&layout=compact" alt="talhak-20" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=talhak-20&show_icons=true&locale=en" alt="talhak-20" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhak-20&" alt="talhak-20" /> </p>
