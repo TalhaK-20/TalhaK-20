@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
 
-<h3 align="center">Full Stack Developer | ML & NLP Engineer | Researcher | Tutor</h3>
+<h3 align="center">Full Stack Web + AI Engineer | QA Automation Engineer</h3>
 
-<h4 align="center">Driven 7th semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
+<h4 align="center">Driven 8th semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhak-20&label=Profile%20views&color=0e75b6&style=flat" alt="talhak-20" /> </p>
