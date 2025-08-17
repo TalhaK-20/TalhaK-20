@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Web + AI Engineer | QA Automation Engineer</h3>
 
-<h4 align="center">Driven 8th semester Computer Science student with a passion for exploring the limitless possibilities of technology 😊</h4>
+<h4 align="center">Driven Computer Science graduate with a passion for exploring the limitless possibilities of technology 😊</h4>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhak-20&label=Profile%20views&color=0e75b6&style=flat" alt="talhak-20" /> </p>
